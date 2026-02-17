@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# EECS 595 HW3: Tiny GPT Training Script
 # This script trains a very small GPT model for local testing
 # Designed to run quickly on CPU for student verification
 
